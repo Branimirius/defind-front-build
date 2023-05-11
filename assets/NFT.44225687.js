@@ -1,0 +1,1 @@
+import{d as s,o as e,f as a,F as t,C as _,n,af as o,l as r}from"./index.a43653f5.js";const c={class:"nft"},d=s({__name:"NFT",setup(p){return(l,f)=>(e(),a("div",c,[(e(),a(t,null,_(12,i=>n(o)),64))]))}});const m=r(d,[["__scopeId","data-v-6558a522"]]);export{m as default};
