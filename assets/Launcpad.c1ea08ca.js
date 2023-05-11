@@ -1,1 +1,0 @@
-import{P as a}from"./ProjectCard.5158fb61.js";import{d as c,a as _,c as t,v as e,_ as o}from"./index.b8937978.js";const s={class:"page page-launcpad"},n=c({__name:"Launcpad",setup(p){return(d,r)=>(_(),t("div",s,[e(a),e(a)]))}});const m=o(n,[["__scopeId","data-v-dc430c3a"]]);export{m as default};
